@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋 I'm Adarsha Nadiger
+I specialize in embedded software development working with microcontrollers, firmware, and low-level C/C++ programming. I enjoy desinging and debugging drivers, working with STM32 boards,PIC, and optimizing code for hardware efficiency. 
+
 
 <!--
 **AdarshaNadiger/AdarshaNadiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
