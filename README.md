@@ -1,5 +1,9 @@
 ## Hello 👋 I'm Adarsha Nadiger
-I specialize in embedded software development working with microcontrollers, firmware, and low-level C/C++ programming. I enjoy desinging and debugging drivers, working with STM32 boards,PIC, and optimizing code for hardware efficiency. 
+I’m a recent Electrical & Electronics graduate passionate about embedded software development. I enjoy learning and building projects with C/C++, microcontrollers (STM32), and firmware.
+
+🔹 Exploring driver development, peripheral interfacing, and RTOS basics.
+🔹 Interested in low-level programming and embedded system design.
+💡 Eager to contribute to real-world embedded projects and grow as an engineer.
 
 
 <!--
